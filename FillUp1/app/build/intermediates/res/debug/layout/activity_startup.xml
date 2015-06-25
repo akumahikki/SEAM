@@ -1,0 +1,4 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+</RelativeLayout><!-- From: file:/home/bps_csp/AndroidStudioProjects/FillUp1/app/src/main/res/layout/activity_startup.xml -->

@@ -1,0 +1,19 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" 
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/textviewPath"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+   <ListView
+        android:id="@+id/listviewFiles"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:padding="4dip" />
+    
+</LinearLayout>
+<!-- From: file:/home/bps_csp/AndroidStudioProjects/FillUp1/app/src/main/res/layout/activity_file_selection.xml -->

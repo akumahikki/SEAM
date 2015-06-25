@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/bps_csp/Android/Sdk/extras/android/m2repository/com/android/support/support-v4/19.1.0/support-v4-19.1.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="/home/bps_csp/AndroidStudioProjects/FillUp1/app/build/intermediates/pre-dexed/debug/support-v4-19.1.0-f0b85773d108e1e3929255af9588761f5740ac5c.jar" />
+    </item>
+    <item
+        jar="/home/bps_csp/AndroidStudioProjects/FillUp1/app/libs/androidplot-core-0.6.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="f748797c749973ce1364ea8cc640744b64f78709">
+        <dex dex="/home/bps_csp/AndroidStudioProjects/FillUp1/app/build/intermediates/pre-dexed/debug/androidplot-core-0.6.0-6a060409db7f535ce685045703488dd4dc670f8c.jar" />
+    </item>
+
+</items>
