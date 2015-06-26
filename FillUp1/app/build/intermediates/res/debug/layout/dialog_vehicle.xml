@@ -5,8 +5,8 @@
     android:orientation="vertical">
         
     <LinearLayout 
-	    android:layout_width="fill_parent" 
-	    android:layout_height="wrap_content" 
+	    android:layout_width="fill_parent"
+	    android:layout_height="wrap_content"
 	    android:orientation="vertical"
 	    android:paddingLeft="8dip" 
 	    android:paddingRight="8dip"
@@ -40,12 +40,45 @@
             android:inputType="numberDecimal"
             android:digits="0123456789.,"
             />
-        
-	</LinearLayout>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/vehicle_brand_label"
+            android:id="@+id/labelVehicleBrand" />
+
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/textVehicleBrand" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/vehicle_plate_label"
+            android:id="@+id/labelVehiclePlate" />
+
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/textVehiclePlate" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/vehicle_type_label"
+            android:id="@+id/labelVehicleType" />
+
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/textVehicleType" />
+
+    </LinearLayout>
 	
 	<LinearLayout 
-	    android:layout_width="fill_parent" 
-	    android:layout_height="wrap_content" 
+	    android:layout_width="fill_parent"
+	    android:layout_height="wrap_content"
 	    android:orientation="horizontal"
 	    android:background="@color/dialog_buttonbar_bg"
 	    android:padding="5dip"
@@ -54,15 +87,15 @@
         <Button 
             android:id="@+id/buttonOK" 
             android:layout_width="120dp" 
-            android:layout_height="wrap_content" 
-            android:text="@string/ok_label" 
+            android:layout_height="wrap_content"
+            android:text="@string/ok_label"
             />
         
         <Button 
             android:id="@+id/buttonCancel" 
             android:layout_width="120dp" 
-            android:layout_height="wrap_content" 
-            android:text="@string/cancel_label" 
+            android:layout_height="wrap_content"
+            android:text="@string/cancel_label"
             />
                 
     </LinearLayout> 

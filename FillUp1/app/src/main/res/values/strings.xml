@@ -101,6 +101,9 @@
     <string name="label_range_ytd">YTD</string>
     <string name="label_range_all">All</string>
     <string name="default_currency">Default</string>
+    <string name="vehicle_brand_label">Brand</string>
+    <string name="vehicle_plate_label">Vehicle registration plate</string>
+    <string name="vehicle_type_label">Vehicle type</string>
         
     <!-- hints -->
     <string name="hint_odometer">odometer</string>
@@ -159,6 +162,9 @@
     <string name="toast_invalid_odometer_value">Invalid odometer value.</string>
     <string name="toast_invalid_gallons_value">Invalid %1$s value.</string>
     <string name="toast_invalid_vehicle_name">Invalid vehicle name.</string>
+    <string name="toast_invalid_vehicle_brand">Invalid vehicle brand.</string>
+    <string name="toast_invalid_vehicle_type">Invalid vehicle type.</string>
+    <string name="toast_invalid_vehicle_plate">Invalid vehicle plate.</string>
     <string name="toast_invalid_vehicle_tank_size">Invalid vehicle tank size.</string>
     <string name="toast_database_update_failed">Database update failed!</string>
     <string name="toast_invalid_cost_value">Invalid total cost value.</string>

@@ -293,8 +293,11 @@
     <string name="toast_invalid_odometer_value">Invalid odometer value.</string>
     <string name="toast_invalid_price_calculation">Unable to calculate fuel price using these values</string>
     <string name="toast_invalid_price_value">Invalid fuel price value.</string>
+    <string name="toast_invalid_vehicle_brand">Invalid vehicle brand.</string>
     <string name="toast_invalid_vehicle_name">Invalid vehicle name.</string>
+    <string name="toast_invalid_vehicle_plate">Invalid vehicle plate.</string>
     <string name="toast_invalid_vehicle_tank_size">Invalid vehicle tank size.</string>
+    <string name="toast_invalid_vehicle_type">Invalid vehicle type.</string>
     <string name="toast_no_data_to_export">No data to export.</string>
     <string name="toast_select_a_vehicle">Select a vehicle.</string>
     <string name="toast_stopped_at_csv_line">Stopped at csv line %1$d.</string>
@@ -303,10 +306,13 @@
     <string name="url_license_html">file:///android_asset/license.html</string>
     <string name="url_update_html">file:///android_asset/update.html</string>
     <string name="vehicle_add_label">Add Vehicle</string>
+    <string name="vehicle_brand_label">Brand</string>
     <string name="vehicle_delete_label">Delete Vehicle</string>
     <string name="vehicle_edit_label">Edit Vehicle</string>
     <string name="vehicle_name_label">Name</string>
+    <string name="vehicle_plate_label">Vehicle registration plate</string>
     <string name="vehicle_tanksize_label">Tank Size (%1$s)</string>
+    <string name="vehicle_type_label">Vehicle type</string>
     <string name="vehicles_spinner_prompt">Vehicle</string>
     <string name="view_log_button_label">Log</string>
     <string name="view_log_button_text">View Log</string>
